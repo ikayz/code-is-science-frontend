@@ -6,8 +6,7 @@ The Code is Science website (Frontend) allows users to view, read, sign up, and 
 
 The project targets the following types of users: editors, coders, code author, reviewers that are part of the Code is Science [persona](https://github.com/codeisscience/journal-policy-tracker-frontend/blob/master/assets/Code%20is%20Science%20-%20Persona.pdf). Any user who falls in the mentioned category can use the project for checking journal policies, and/or contributing to the journal policy tracker.
 
-![](RackMultipart20210822-4-1hgkhsb_html_e0313da606d56d4.jpg)
-3
+![image](https://user-images.githubusercontent.com/31007212/130369059-c8a3c0e7-c008-4318-93a7-3a350bb073da.png)
 
 ## What users can see and/or do
 
@@ -60,35 +59,35 @@ The following will be worked on
 
 ## Image samples
 
-![](RackMultipart20210822-4-1hgkhsb_html_203caa98d17d135a.png)
+![2](https://user-images.githubusercontent.com/31007212/130369214-0186cfe5-68cc-4aed-a718-efddff6c9332.png)
 
 Fig 1. Home page
 
-![](RackMultipart20210822-4-1hgkhsb_html_615573a78c0da284.png)
+![3](https://user-images.githubusercontent.com/31007212/130369221-7e29e576-9efc-4cbe-a8b1-5cc8c02afe21.png)
 
 Fig 2. Home middle section
 
-![](RackMultipart20210822-4-1hgkhsb_html_e13a0f3bc678a507.png)
+![4](https://user-images.githubusercontent.com/31007212/130369226-49bc031b-8702-485d-9755-5e3d2fd0e542.png)
 
 Fig 3. Home footer section
 
-![](RackMultipart20210822-4-1hgkhsb_html_cdbaa57d56154ce9.png)
+![5](https://user-images.githubusercontent.com/31007212/130369230-ac992d37-f787-4aef-bbf6-b29dbdd4db31.png)
 
 Fig 4. Journals page
 
-![](RackMultipart20210822-4-1hgkhsb_html_450118372bd39cca.png)
+![6](https://user-images.githubusercontent.com/31007212/130369243-d798d59d-8e87-458f-b0db-dc40099f1b60.png)
 
 Fig 5. Manifesto
 
-![](RackMultipart20210822-4-1hgkhsb_html_b1197e975903c7e0.png)
+![7](https://user-images.githubusercontent.com/31007212/130369247-326cb45b-a281-4e7f-88d2-808964cde23c.png)
 
 Fig 6. Contact
 
-![](RackMultipart20210822-4-1hgkhsb_html_4c2eea87e2c369d6.png)
+![8](https://user-images.githubusercontent.com/31007212/130369256-434a9e16-3aba-4591-a71c-1ed1ee517ac0.png)
 
 Fig 7. Login
 
-![](RackMultipart20210822-4-1hgkhsb_html_c2a5223864c79bed.png)
+![9](https://user-images.githubusercontent.com/31007212/130369266-583c7e66-f664-414c-860e-8de979997368.png)
 
 Fig 8. Sign Up
 
